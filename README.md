@@ -40,7 +40,7 @@ Meu objetivo é transformar ideias em soluções funcionais e visualmente atraen
 ---
 
 ## 🌐 Visualização Online
-🔗 [Clique aqui para acessar o portfólio](https://seu-link-aqui.com)
+🔗 [Clique aqui para acessar o portfólio](http://www.linkedin.com/in/julio-ribeiroc/)
 
 ---
 
