@@ -52,9 +52,9 @@ Meu objetivo é transformar ideias em soluções funcionais e visualmente atraen
 ---
 
 ## 📬 Contato
-📧 **E-mail:** seuemail@exemplo.com  
+📧 **E-mail:** julioribeiroq@gmail.com  
 💼 **LinkedIn:** [Julio Ribeiro](https://www.linkedin.com/in/julio-ribeiroc/)  
-🐙 **GitHub:** [@seu-usuario](https://github.com/seu-usuario)  
+🐙 **GitHub:** [@Julioribeiroo](https://github.com/Julioribeiroo/)  
 
 ---
 
